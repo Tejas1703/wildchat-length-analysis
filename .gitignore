@@ -1,0 +1,11 @@
+data/
+outputs/processed/
+outputs/models/
+outputs/logs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
