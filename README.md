@@ -45,7 +45,7 @@ Heuristic labels:
 
 ---
 
-### RQ3 — Intent vs Conversation Length
+###  Intent vs Conversation Length
 How strongly does predicted intent correlate with conversation duration?
 
 This analysis provides behavioral insights into how users interact with LLMs.
@@ -65,6 +65,8 @@ Large raw and intermediate artifacts are excluded from the repository.
 ---
 
 ## Repository Structure
+
+```text
 wildchat-length-analysis/
 │
 ├── notebooks/
@@ -82,6 +84,7 @@ wildchat-length-analysis/
 │ └── Research_Question_2_Results_Table.jpeg
 │
 └── README.md
+```
 
 ---
 
